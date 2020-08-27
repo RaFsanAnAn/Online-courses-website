@@ -1,0 +1,12 @@
+.body{
+    display: flex;
+  }
+  .courses-area{
+    width: 75%;
+    margin-left: 0px;
+    margin-right: 10px;
+  }
+  .cart-area{
+    width: 20%;
+    margin-left: 20px;
+  }
