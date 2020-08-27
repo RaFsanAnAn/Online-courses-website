@@ -47,12 +47,6 @@ const fakeData = [
         price : 13.99,
         img :'https://i.morioh.com/8c8203b86e.png'
     },
-    {   id : 8,
-        name : 'C #',
-        instructor : 'Joshim',
-        price : 13.99,
-        img :'https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png'
-    },
     {   id : 9,
         name : 'Python',
         instructor : 'Shabana',
@@ -66,10 +60,10 @@ const fakeData = [
         img :'https://icon-icons.com/icons2/2397/PNG/256/microsoft_office_excel_logo_icon_145720.png'
     },
     {   id : 11,
-        name : 'Adobe Photoshop',
+        name : 'C #',
         instructor : 'Joshim',
-        price : 7.99,
-        img :'https://icon-icons.com/icons2/2198/PNG/128/adobe_photoshop_folder_icon_133961.png'
+        price : 13.99,
+        img :'https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png'
     },
     {   id : 12,
         name : 'Machine Learning',
